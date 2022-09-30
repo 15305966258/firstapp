@@ -2,7 +2,7 @@
 
 ​	1，安装android Studio
 
-![1](https://raw.githubusercontent.com/15305966258/firstapp/main/images1/Snipaste_ 2022-09-28_15-55-29.png)
+![1](https://raw.githubusercontent.com/15305966258/firstapp/main/images1/Snipaste_2022-09-28_15-55-29.png)
 
 ​	2，注册git账户
 
